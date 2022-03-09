@@ -16,7 +16,7 @@
   <img align="center" alt="Sampaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sampaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sampaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Sampaio-pic" height="150" style="border-radius: 25px; border: 2px solid purple;" src="https://pbs.twimg.com/profile_images/1489187114830942208/wj5YBBN__400x400.jpg">
+  <img align="right" alt="Sampaio-pic" height="150" style="border-radius: 25px; border: 2px solid purple;" src="https://media.discordapp.net/attachments/883346885325250651/951226665680404571/pp.jpg?width=492&height=492">
 </div>
   
   ##
