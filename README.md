@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, seja bem vindo ao meu perfil do GitHub 👋
 
 - 💻 Estou cursando tecnologia para internet na ETEC MCM.
 - 💬 Meu nome é Gabriel Oliveira Sampaio e tenho 16 anos.
