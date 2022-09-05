@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu perfil do GitHub 👋
 
 - 💻 Estou cursando tecnologia para internet na ETEC MCM.
-- 💬 Meu nome é Gabriel Oliveira Sampaio e tenho 16 anos.
+- 💬 Meu nome é Gabriel Oliveira Sampaio e tenho 17 anos.
 - 📫 Como me contatar: gabrielsampaio1216@gmail.com
 - 😉 Pronomes: Ele/Dele
 
