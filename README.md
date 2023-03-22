@@ -3,7 +3,6 @@
 - 💻 Estou cursando Informática para Internet na Etec MCM e Desenvolvimento de Sistemas no Senai Paulo Skaf.
 - 💬 Meu nome é Gabriel Oliveira Sampaio e tenho 17 anos.
 - 📫 Como me contatar: gabrielsampaio1216@gmail.com
-- 😉 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/gsampaiowz">
