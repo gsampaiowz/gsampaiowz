@@ -17,7 +17,7 @@
   <img align="center" alt="Sampaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sampaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sampaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="right" alt="Sampaio-pic" height="150" src="[https://avatars.githubusercontent.com/u/64602113?s=400&u=2f5518b2a74eeb2622780439fd08b9624cbf02f4&v=4](https://avatars.githubusercontent.com/u/64602113?v=4)">
+  <img align="right" alt="Sampaio-pic" height="150" src="[[https://avatars.githubusercontent.com/u/64602113?s=400&u=2f5518b2a74eeb2622780439fd08b9624cbf02f4&v=4](https://avatars.githubusercontent.com/u/64602113?v=4)](https://github.com/account)">
 </div>
   
   ##
