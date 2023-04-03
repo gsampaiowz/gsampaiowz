@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/gsampaiowz">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=gsampaiowz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=gsampaiowz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
 </div>
   
-<div style="display: inline_block;"><br>
+<div style="display: inline_block;">
   <img align="center" alt="Sampaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sampaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Sampaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
