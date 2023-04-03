@@ -19,10 +19,10 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCddCB-LLnWqnrjgI4P_dBYA" target="_blank"><img style="border-radius: 5px;" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gsampaiowz/?hl=pt-br" target="_blank"><img style="border-radius: 5px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/sampaiowz" target="_blank"><img style="border-radius: 5px;" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielsampaio1216@gmail.com"><img style="border-radius: 5px;" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a style="border-radius: 5px;" href="https://www.linkedin.com/in/gsampaiowz/" target="_blank"><img style="border-radius: 5px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCddCB-LLnWqnrjgI4P_dBYA" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" target="_blank"></a>
+  <a href="https://www.instagram.com/gsampaiowz/?hl=pt-br" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/sampaiowz" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitch.svg" target="_blank"></a>
+  <a href = "mailto:gabrielsampaio1216@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gsampaiowz/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Linkedin.svg" target="_blank"></a> 
   
 </div>
