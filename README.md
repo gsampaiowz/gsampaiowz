@@ -1,12 +1,12 @@
 ### Olá, seja bem vindo ao meu perfil do GitHub 👋
 
 - 💻 Estou cursando Informática para Internet na Etec MCM e Desenvolvimento de Sistemas no Senai Paulo Skaf.
-- 💬 Meu nome é Gabriel Oliveira Sampaio e tenho 17 anos.
+- 💬 Meu nome é Gabriel Oliveira Sampaio e tenho 18 anos.
 - 📫 Como me contatar: gabrielsampaio1216@gmail.com
 
 <div align="center">
   <a href="https://github.com/gsampaiowz">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=gsampaiowz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
+  <img width="80%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsampaiowz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
 </div>
   
 <div style="display: inline_block;"><br>
