@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/gsampaiowz">
-  <img width="80%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsampaiowz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
+  <img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsampaiowz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
 </div>
   
 <div style="display: inline_block;"><br>
