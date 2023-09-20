@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/gsampaiowz">
-  <img align="center" width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsampaiowz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
+  <img align="center" width="60%" src="https://camo.githubusercontent.com/386e1a6cd3d81f99bbe5584123517770aaaf403dce6bd4077bc2f0ecf18bfc29/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7472616e73706172656e74"/></a>
 </div>
 
-### Linguagens:
+#### Linguagens:
 <div>
   <img align="center" alt="Sampaio-HTML" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Sampaio-CSS" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="Sampaio-CSharp" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
 <div/>
   
-### Ferramentas:
+#### Ferramentas:
 <div>
   <img align="center" alt="Sampaio-Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img align="center" alt="Sampaio-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -35,7 +35,7 @@
   <img align="center" alt="Sampaio-Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-### Bancos de dados e frameworks
+#### Bancos de dados e frameworks:
 <div>
   <img align="center" alt="Sampaio-SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img align="center" alt="Sampaio-MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
