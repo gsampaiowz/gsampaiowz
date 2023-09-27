@@ -4,10 +4,6 @@
 - 💬 Meu nome é Gabriel Oliveira Sampaio e tenho 18 anos.
 - 📫 Como me contatar: gabrielsampaio1216@gmail.com
 
-<div align="center">
-  <a href="https://github.com/gsampaiowz">
-</div>
-
 #### Linguagens:
 <div>
   <img align="center" alt="Sampaio-HTML" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
