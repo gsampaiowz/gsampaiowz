@@ -34,7 +34,10 @@
   <img align="center" alt="Sampaio-SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img align="center" alt="Sampaio-MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Sampaio-MongoDb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Sampaio-.Net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">    
+  <img align="center" alt="Sampaio-.Net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">   
+</div>
+--------------------------------------------------------------------------------------------------
+<div>
   <img align="center" alt="Sampaio-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Sampaio-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Sampaio-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
