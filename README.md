@@ -21,7 +21,7 @@
   <img align="center" alt="Sampaio-VisualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img align="center" alt="Sampaio-GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <div/>
-------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 <div>  
   <img align="center" alt="Sampaio-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Sampaio-Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -36,7 +36,7 @@
   <img align="center" alt="Sampaio-MongoDb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Sampaio-.Net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">   
 </div>
-------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 <div>
   <img align="center" alt="Sampaio-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Sampaio-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
