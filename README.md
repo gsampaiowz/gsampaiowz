@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil do GitHub 👋
 
-- 💻 Estou cursando Técnico em Desenvolvimento de Sistemas no SENAI Paulo Antonio Skaf.
+- 💻 Sou formado em Técnico em Desenvolvimento de Sistemas no SENAI Paulo Antonio Skaf.
 - 💬 Meu nome é Gabriel Oliveira Sampaio e tenho 19 anos.
 - 📫 Como me contatar: gabrielsampaio1216@gmail.com
 - 👨‍💻 Desenvolvedor FullStack
